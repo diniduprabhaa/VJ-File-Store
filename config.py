@@ -47,7 +47,7 @@ DB_NAME = environ.get("DB_NAME", "dinidusilva30")
 # Bot Information
 BOT_TOKEN = environ.get("BOT_TOKEN", "7177181883:AAG6Y-1Zxld7CoKLaZBx32A0YLGKDhlbR3o")
 BOT_USERNAME = environ.get("BOT_USERNAME", "SinhalaCartoonsBOT") # your bot username without @
-PICS = (environ.get('PICS', 'https://graph.org/file/3a04efcc85a24e86fff17.jpg')).split() # Bot Start Picture
+PICS = (environ.get('PICS', 'https://graph.org/file/094dc217b8dd798af636c.jpg')).split() # Bot Start Picture
 
 # Auto Delete Information
 AUTO_DELETE = int(environ.get("AUTO_DELETE", "30")) # Time in Minutes
